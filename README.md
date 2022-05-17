@@ -16,14 +16,14 @@ Note that this script, and any variant of this script, *can* be used just for ed
 
 * I will add some issues here
 
-## Maintainer
-
-
 ## Languages & Libraries
 
-
-## License
-
-MIT
-
-If you do find this script useful, a link back to this repository would be appreciated. Thanks!
+* **NodeJS**
+* **Axios**
+* **Cheerio**
+* **Puppeteer**
+* **Python**
+* **Request**
+* **BeautifulSoup**
+* **Scrapy**
+* **Selenium**
