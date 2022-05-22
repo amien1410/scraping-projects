@@ -4,7 +4,7 @@
 
 ## Contents
 
-### Content 1
+### 1 - Tax Records from [Greene County Government Website](https://greenecountymo.gov/collector/search/results.php)
 
 ## Privacy
 
