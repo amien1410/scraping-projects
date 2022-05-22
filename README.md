@@ -10,6 +10,8 @@
 ### 4 - Diseases Dictionary in all languages from [Medikamio.com](http://medikamio.com/)
 ### 5 - Vechile Management Softwares from [G2.com](http://g2.com/)
 ### 6 - Gabriel NY from [Gabrielny.ca](http://gabrielny.ca/)
+### 7 - Product Listing from [Bol.com](https://www.bol.com/nl/nl/)
+### 8 - Product Listing from [Amazon.com](https://www.amazon.com/)
 
 ## Privacy
 
