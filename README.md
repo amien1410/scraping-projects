@@ -29,10 +29,10 @@
   - See [the content]()
   - See [the video]()
 ### 9 - Product Listing from [Solarreviews.com](https://www.solarreviews.com)
-  - See [the content]()
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/solarrevies-energysage)
   - See [the video]()
 ### 10 - Product Listing from [Energysage.com](https://www.energysage.com)
-  - See [the content]()
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/solarrevies-energysage)
   - See [the video]()
 
 ## Privacy
