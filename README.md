@@ -11,7 +11,7 @@
   - See [the content]()
   - See [the video]()
 ### 3 - Cosmetics Listing from [Sephora.com](https://sephora.com)
-  - See [the content]()
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/sephora)
   - See [the video]()
 ### 4 - Diseases Dictionary in all languages from [Medikamio.com](http://medikamio.com/)
   - See [the content](https://github.com/amien1410/scraping-projects/tree/main/disease)
