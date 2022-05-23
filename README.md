@@ -23,7 +23,7 @@
   - See [the content]()
   - See [the video]()
 ### 7 - Product Listing from [Bol.com](https://www.bol.com/nl/nl/)
-  - See [the content]()
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/bol-nl-marketplace)
   - See [the video]()
 ### 8 - Product Listing from [Amazon.com](https://www.amazon.com/)
   - See [the content]()
