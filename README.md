@@ -14,7 +14,7 @@
   - See [the content]()
   - See [the video]()
 ### 4 - Diseases Dictionary in all languages from [Medikamio.com](http://medikamio.com/)
-  - See [the content]()
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/disease)
   - See [the video]()
 ### 5 - Vechile Management Softwares from [G2.com](http://g2.com/)
   - See [the content]()
