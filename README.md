@@ -34,6 +34,9 @@
 ### 10 - Product Listing from [Energysage.com](https://www.energysage.com)
   - See [the content](https://github.com/amien1410/scraping-projects/tree/main/solarrevies-energysage)
   - See [the video]()
+### 11 - Product Listing from [Mercadolivre.com](https://www.mercadolivre.com)
+  - See [the content](https://github.com/amien1410/scraping-projects/tree/main/mercadolivre)
+  - See [the video]()
 
 ## Privacy
 
